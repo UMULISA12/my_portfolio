@@ -1,0 +1,34 @@
+.navigation{
+    background-color:#262626;
+    overflow:auto;
+    margin-top:0px;
+    
+}
+
+.navigation a{
+    float: right;
+    color:#a6a6a6;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navigation a:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.navigation a:visited{
+    color: blue;
+}
+img{
+    border-radius: 100px;
+    margin-top:50px;
+    margin-left:200px;
+    opacity: 0.6;
+    float: left;
+}
+h1,h2,p{
+    color:white;
+}
