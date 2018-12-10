@@ -1,8 +1,13 @@
 .navigation{
     background-color:#262626;
-    overflow:auto;
-    margin-top:0px;
+ 
+    box-shadow: 0 8px 6px -6px black;
     
+    left: 0;
+    overflow: hidden;
+    position: fixed; 
+    top: 0;
+    width: 100%;
 }
 
 .navigation a{
@@ -22,13 +27,46 @@
 .navigation a:visited{
     color: blue;
 }
-img{
-    border-radius: 100px;
-    margin-top:50px;
-    margin-left:200px;
-    opacity: 0.6;
-    float: left;
-}
-h1,h2,p{
+
+h1,h2,h3,p{
     color:white;
+    text-align: center;
 }
+
+body{
+    background-image: url("https://www.in-webdizajn.com/wp-content/uploads/2013/12/background-web-design-images-3-darker-1.png");
+    background-size:cover;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    opacity: 0.6;
+    margin-top: 50px;
+    border: solid  #262626;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 100px;
+    border-radius: 50px;
+  }
+
+  .social-media{
+      display: flex;
+      justify-content: center;
+  }
+
+  footer{
+      background-color: #262626;
+     
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      color: white;
+      text-align: center;
+  }
