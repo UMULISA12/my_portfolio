@@ -4,7 +4,6 @@
     box-shadow: 0 8px 6px -6px black;
     
     left: 0;
-    overflow: hidden;
     position: fixed; 
     top: 0;
     width: 100%;
@@ -28,7 +27,7 @@
     color: blue;
 }
 
-h1,h2,h3,p{
+h1,h2,.hello,.developer{
     color:white;
     text-align: center;
 }
@@ -44,7 +43,7 @@ body{
     margin-right: auto;
     border-radius: 100px;
     opacity: 0.6;
-    margin-top: 50px;
+    margin-top: 80px;
     border: solid  #262626;
   }
 
@@ -60,13 +59,21 @@ body{
       justify-content: center;
   }
 
-  footer{
-      background-color: #262626;
-     
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      width: 100%;
-      color: white;
-      text-align: center;
+  
+
+  ol{
+      text-align:center;
+      color:white;
+      list-style-position: inside;
   }
+
+  h3{
+      text-align: center;
+      color: white;
+  }
+
+  .about_me{
+    color:white;
+    text-align: center;  
+  }
+  
