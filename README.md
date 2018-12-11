@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 
 #project or program name
@@ -22,3 +23,7 @@ having text editor
 
 #copyright and license information
 Copyright 2018 | Alice.U.portfolio | All Rights Reserved
+=======
+ #my-fortfolio
+my first website!
+>>>>>>> 25fa729f0064e5ff94aec6ab25811ab5a63f58c7
