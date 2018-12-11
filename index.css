@@ -31,7 +31,7 @@
 .hello,.developer{
     color:white;
     text-align: center;
-    
+  
 }
 h1,h2{
     color:white;
@@ -55,7 +55,7 @@ body{
     opacity: 0.6;
     margin-top: 80px;
     border: solid  #262626;
-    box-shadow:12px 12px 29px black;
+    box-shadow:12px 12px 29px 20px black;
   }
 
   .fa-facebook {
@@ -98,6 +98,7 @@ body{
   .fa {
     border-radius: 50%;
     text-decoration: none;
+    margin-bottom: 10px;
   }
   
   /* Facebook */
@@ -107,7 +108,7 @@ body{
   }
   
   /* Twitter */
-  .fa-twitter {
+  .fa-linkedin {
     background:none;
     color: white;
   }
@@ -118,10 +119,15 @@ body{
   }
   .fa-instagram{
       margin-left: 40px;
+      color: white;
   }
 
   .license{
       margin-top:10px;
+  }
+
+  a{
+      color: blue;
   }
 
   
