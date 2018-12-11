@@ -28,9 +28,18 @@
     color: blue;
 }
 
-h1,h2,.hello,.developer{
+.hello,.developer{
     color:white;
     text-align: center;
+    
+}
+h1,h2{
+    color:white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:6px 5px 10px black;
+    
+    
 }
 
 body{
