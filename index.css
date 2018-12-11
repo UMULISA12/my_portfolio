@@ -22,10 +22,11 @@
 .navigation a:hover{
     background-color: black;
     color: aliceblue;
+    
 }
 
 .navigation a:visited{
-    color:blue;;
+    color:none;
 }
 
 .hello,.developer{
@@ -126,9 +127,7 @@ body{
       margin-top:10px;
   }
 
-  a{
-      color: blue;
-  }
+  
 
   
  
