@@ -18,7 +18,7 @@ having internet
 having text editor
 
 #link to live site on GitHub Pages
-
+ https://umulisa12.github.io/my_portfolio/
 
 #copyright and license information
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
