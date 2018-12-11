@@ -21,4 +21,4 @@ having text editor
 
 
 #copyright and license information
-Copyright 2018 | Alice.U.portfolio | All Rights Reserved
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
